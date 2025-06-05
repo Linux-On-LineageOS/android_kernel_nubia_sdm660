@@ -218,4 +218,7 @@ source "drivers/nubia/Kconfig"
 
 source "drivers/tee/Kconfig"
 
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu

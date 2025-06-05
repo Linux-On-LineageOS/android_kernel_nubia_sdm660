@@ -187,3 +187,4 @@ obj-$(CONFIG_SENSORS_SSC)	+= sensors/
 obj-$(CONFIG_ESOC)              += esoc/
 obj-$(CONFIG_NUBIA_DRIVERS)	+= nubia/
 obj-$(CONFIG_TEE)		+= tee/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
